@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+ #brown {
+        background-color: brown;
+        color: white;
+      }
+      table {
+        width: 100%;
+      }
